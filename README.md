@@ -2,7 +2,7 @@
 I'm a tech career changer actively seeking a career change into software development. I'm currently carrying out self-study via online resources such as Udemy, [Code First Girls](https://codefirstgirls.com/) and [The Odin Project](https://www.theodinproject.com/), to improve my knowledge of software development tools and languages.
 <br />
 <br />
-## 💻 Current learning & recent projects
+## 💻 Current learning & projects
 - **JavaScript** I'm currently 70% through the JavaScript Udemy course by Jonas Schmedtmann - [The Complete JavaScript Course 2023: From Zero To Expert](https://www.udemy.com/course/the-complete-javascript-course/)
 
 - **Rock Paper Scissors Project** via The Odin Project - [https://vtickner.github.io/odin-rock-paper-scissors/](https://vtickner.github.io/odin-rock-paper-scissors/)
