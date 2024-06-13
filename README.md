@@ -3,7 +3,7 @@ I'm a tech career changer actively seeking a career change into software develop
 <br />
 <br />
 ## 💻 Current learning & projects
-- **JavaScript** I'm currently 70% through the JavaScript Udemy course by Jonas Schmedtmann - [The Complete JavaScript Course 2023: From Zero To Expert](https://www.udemy.com/course/the-complete-javascript-course/)
+- **JavaScript** I'm currently 75% through the JavaScript Udemy course by Jonas Schmedtmann - [The Complete JavaScript Course 2023: From Zero To Expert](https://www.udemy.com/course/the-complete-javascript-course/)
 
 - **Rock Paper Scissors Project** via The Odin Project - [https://vtickner.github.io/odin-rock-paper-scissors/](https://vtickner.github.io/odin-rock-paper-scissors/)
 
