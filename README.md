@@ -3,9 +3,9 @@ I'm a tech career changer actively seeking a career change into software develop
 <br />
 <br />
 ## 💻 Current learning & projects
-- **Data Engineer** I'm currently 33% through the Codecademy's Data Engineer Career Path course - [https://www.codecademy.com/](https://www.codecademy.com/)
+- **Data Engineer** I'm currently 33% through the Codecademy's Data Engineer Career Path course - [https://www.codecademy.com/](https://www.codecademy.com/). You can find all the projects I completed as part of this course in this [GitHub repository](https://github.com/VTickner/codecademy-data-engineer)
 
-- **Computer Science** I've recently completed the Codecademy's Computer Science Career Path course - [https://www.codecademy.com/](https://www.codecademy.com/)
+- **Computer Science** I've recently completed the Codecademy's Computer Science Career Path course - [https://www.codecademy.com/](https://www.codecademy.com/). You can find all the projects I completed as part of this course in this [GitHub repository](https://github.com/VTickner/codecademy-computer-science)
 
 - **JavaScript** I'm currently 75% through the JavaScript Udemy course by Jonas Schmedtmann - [The Complete JavaScript Course 2023: From Zero To Expert](https://www.udemy.com/course/the-complete-javascript-course/)
 
