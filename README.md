@@ -6,7 +6,7 @@ I'm a tech career changer actively seeking a career change into software develop
 - **Data Engineer** I'm currently 35% through the Codecademy's Data Engineer Career Path course - [https://www.codecademy.com/](https://www.codecademy.com/).
   (You can find all the projects I completed as part of this course in this [GitHub repository](https://github.com/VTickner/codecademy-data-engineer))
 
-- **Python** I'm currently 30% through the Python Udemy course by Dr. Angela Yu - [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)
+- **Python** I'm currently 30% through the Python Udemy course by Dr. Angela Yu - [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/).
   (You can find all the projects I completed as part of this course in this [GitHub repository](https://github.com/VTickner/100-days-of-code-python))
 
 - **Computer Science** I've recently completed the Codecademy's Computer Science Career Path course - [https://www.codecademy.com/](https://www.codecademy.com/).
